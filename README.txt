@@ -1,0 +1,1 @@
+﻿Run the FreightScheduler.exe file with argument 1 = filepath to flight schedule and argument 2 = filepath to order json
